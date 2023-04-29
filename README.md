@@ -3,7 +3,7 @@
 **Requests** is a simple, yet elegant, HTTP library.
 
 ```python
->>> import requests
+>>> import webliyy
 >>> r = requests.get('https://httpbin.org/basic-auth/user/pass', auth=('user', 'pass'))
 >>> r.status_code
 200
